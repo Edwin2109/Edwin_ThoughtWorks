@@ -1,0 +1,6 @@
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.pdb
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.pdb

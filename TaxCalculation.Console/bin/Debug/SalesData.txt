@@ -1,0 +1,13 @@
+#Quantity,Product,Price,ItemType
+Order 1
+1,book,12.49,Exempt
+1,music CD,14.99,Basic
+1,chocolate bar,0.85,Exempt
+Order 2
+1,imported box of chocolates,10.00,Import
+1,imported bottle of perfume,47.50,BasicImport
+Order 3
+1,imported bottle of perfume,27.99,BasicImport
+1,bottle of perfume,18.99,Basic
+1,packet of headache pills,9.75,Exempt
+1,imported box of chocolates,11.25,Import

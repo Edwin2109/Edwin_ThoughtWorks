@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculation.Tests", "TaxCalculatorTests\TaxCalculation.Tests.csproj", "{D6FE6A77-FCFA-4C4D-9F74-BE463F85670F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculation.Domain", "TaxCalculation.Domain\TaxCalculation.Domain.csproj", "{690771C4-1C1D-425C-8DDB-5CFAD55C3418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculation.ConsoleApp", "TaxCalculation.Console\TaxCalculation.ConsoleApp.csproj", "{5D8F40B3-BAF4-4522-8A7D-EA3D8D6E89F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FE6A77-FCFA-4C4D-9F74-BE463F85670F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FE6A77-FCFA-4C4D-9F74-BE463F85670F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FE6A77-FCFA-4C4D-9F74-BE463F85670F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FE6A77-FCFA-4C4D-9F74-BE463F85670F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690771C4-1C1D-425C-8DDB-5CFAD55C3418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690771C4-1C1D-425C-8DDB-5CFAD55C3418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690771C4-1C1D-425C-8DDB-5CFAD55C3418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690771C4-1C1D-425C-8DDB-5CFAD55C3418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8F40B3-BAF4-4522-8A7D-EA3D8D6E89F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8F40B3-BAF4-4522-8A7D-EA3D8D6E89F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8F40B3-BAF4-4522-8A7D-EA3D8D6E89F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8F40B3-BAF4-4522-8A7D-EA3D8D6E89F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

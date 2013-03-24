@@ -1,0 +1,5 @@
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.pdb
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.pdb

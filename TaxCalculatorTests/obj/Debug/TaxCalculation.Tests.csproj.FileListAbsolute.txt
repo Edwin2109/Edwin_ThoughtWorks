@@ -1,0 +1,11 @@
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculatorTests.pdb
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\Rhino.Mocks.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculation.Domain.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\TaxCalculation.Domain.pdb
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\bin\Debug\Rhino.Mocks.xml
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculation.Tests.csprojResolveAssemblyReference.cache
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculatorTests\obj\Debug\TaxCalculatorTests.pdb

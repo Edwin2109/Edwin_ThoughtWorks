@@ -1,0 +1,5 @@
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\bin\Debug\TaxCalculation.Domain.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\bin\Debug\TaxCalculation.Domain.pdb
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.csprojResolveAssemblyReference.cache
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.dll
+C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.pdb
