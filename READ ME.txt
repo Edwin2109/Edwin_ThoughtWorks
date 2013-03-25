@@ -1,0 +1,2 @@
+1. You can build the solution without having a Visual Studio environment by executing the batch file: build.bat.
+2. SaleData input text file and the exe are located in this path \Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug
