@@ -3,3 +3,8 @@ C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\bin\Debug\TaxCalculati
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.csprojResolveAssemblyReference.cache
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.dll
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.pdb
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Domain\bin\Debug\TaxCalculation.Domain.dll
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Domain\bin\Debug\TaxCalculation.Domain.pdb
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.csprojResolveAssemblyReference.cache
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.dll
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Domain\obj\Debug\TaxCalculation.Domain.pdb

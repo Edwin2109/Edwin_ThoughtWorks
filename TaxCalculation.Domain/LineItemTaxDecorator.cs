@@ -6,6 +6,9 @@ using TaxCalculation.Domain.Interfaces;
 
 namespace TaxCalculation.Domain
 {
+    /// <summary>
+    /// Decorator class to extend the LineItem functionality
+    /// </summary>
     public class LineItemTaxDecorator: ILineItem
     {
         protected ILineItem _decoratedLineItem;

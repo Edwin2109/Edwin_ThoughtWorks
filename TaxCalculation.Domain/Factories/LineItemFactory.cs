@@ -7,6 +7,9 @@ using TaxCalculation.Domain.Interfaces;
 
 namespace TaxCalculation.Domain.Factories
 {
+    /// <summary>
+    /// Factory class to build a based on the input parameters
+    /// </summary>
     public static class LineItemFactory
     {
         private static readonly Rounding ROUNDING = new Rounding(0.05M);

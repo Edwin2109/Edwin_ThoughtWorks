@@ -58,7 +58,7 @@ namespace TaxCalculatorTests
         //ExpectedException = typeof(FileNotFoundException))]
 
         [TestCase("SalesData.txt",Description = "Positive Test")]
-        public void GetOrdersFileIsValidTestCases(string filePath)
+        public void GetOrdersVerifiedMethodCallTestCase(string filePath)
         {
             mock.Expect(s => s.ReadOrders(filePath)).Return(listOrders);
             ordersRepositoryTestClass.ActOnIOrdersRepository(mock, filePath).ToList();

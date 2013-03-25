@@ -6,3 +6,11 @@ C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Console\bin\Debug\TaxCalculat
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Console\obj\Debug\TaxCalculation.Console.exe
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Console\obj\Debug\TaxCalculation.Console.pdb
 C:\Edwin\ThoughtWorks\TaxCalculator\TaxCalculation.Console\obj\Debug\TaxCalculation.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug\TaxCalculation.Console.exe.config
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\obj\Debug\TaxCalculation.Console.exe
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\obj\Debug\TaxCalculation.Console.pdb
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug\TaxCalculation.Console.exe
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug\TaxCalculation.Console.pdb
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug\TaxCalculation.Domain.dll
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\bin\Debug\TaxCalculation.Domain.pdb
+C:\Users\edwin.ramokone\Documents\GitHub\Edwin_ThoughtWorks\Edwin_ThoughtWorks\TaxCalculation.Console\obj\Debug\TaxCalculation.ConsoleApp.csprojResolveAssemblyReference.cache
